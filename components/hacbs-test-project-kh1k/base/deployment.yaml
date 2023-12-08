@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: hacbs-test-project-1
   name: hacbs-test-project-kh1k
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
